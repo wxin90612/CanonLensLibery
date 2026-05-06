@@ -5,6 +5,7 @@ export interface Lens {
   model: string;
   modelCode: string;
   nickname: string;
+  era: 'film' | 'digital' | 'mirrorless';
   year: number;
   type: 'zoom' | 'prime';
   focalLength: string;
@@ -31,5 +32,6 @@ export interface Filters {
   mounts: string[];
   types: string[];
   focalRanges: string[];
+  eras: string[];
   search: string;
 }

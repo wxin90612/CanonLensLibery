@@ -58,6 +58,13 @@ export default function LensCard({ lens }: LensCardProps) {
           <span className="px-2 py-1 bg-black/60 backdrop-blur-sm rounded-md text-[10px] font-bold text-amber-400 uppercase tracking-wider">
             {lens.mount}
           </span>
+          <span className={`px-2 py-1 backdrop-blur-sm rounded-md text-[10px] font-medium uppercase tracking-wider ${
+            lens.era === 'film' ? 'bg-amber-600/80 text-white' :
+            lens.era === 'digital' ? 'bg-blue-600/80 text-white' :
+            'bg-emerald-600/80 text-white'
+          }`}>
+            {lens.era === 'film' ? '胶片' : lens.era === 'digital' ? '数码' : '无反'}
+          </span>
           <span className={`px-2 py-1 backdrop-blur-sm rounded-md text-[10px] font-medium uppercase tracking-wider ${ownershipColors[lens.ownershipCount]}`}>
             {ownershipLabels[lens.ownershipCount]}
           </span>

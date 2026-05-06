@@ -77,6 +77,13 @@ export default function LensDetail({ lens }: LensDetailProps) {
                 <span className="px-3 py-1 bg-amber-500/20 rounded-lg text-sm font-bold text-amber-400">
                   {lens.mount}
                 </span>
+                <span className={`px-3 py-1 rounded-lg text-sm font-medium border ${
+                  lens.era === 'film' ? 'bg-amber-500/20 text-amber-400 border-amber-500/30' :
+                  lens.era === 'digital' ? 'bg-blue-500/20 text-blue-400 border-blue-500/30' :
+                  'bg-emerald-500/20 text-emerald-400 border-emerald-500/30'
+                }`}>
+                  {lens.era === 'film' ? '胶片时代' : lens.era === 'digital' ? '数码时代' : '无反时代'}
+                </span>
                 <span className={`px-3 py-1 rounded-lg text-sm font-medium border ${ownershipColors[lens.ownershipCount]}`}>
                   {lens.ownershipCount === 'high' ? '高保有量' : lens.ownershipCount === 'medium' ? '中等保有量' : '低保有量'}
                 </span>
