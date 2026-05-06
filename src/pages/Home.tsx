@@ -33,11 +33,12 @@ export default function Home() {
   const [showFilters, setShowFilters] = useState(true);
 
   const filters = useLensStore((state) => state.filters);
+  const sortBy = useLensStore((state) => state.sortBy);
   const favorites = useLensStore((state) => state.favorites);
   const lenses = lensesData as Lens[];
 
   const filteredLenses = useMemo(() => {
-    let result = lenses;
+    let result = [...lenses];
 
     if (tab === 'favorites') {
       result = result.filter((lens) => favorites.includes(lens.id));
@@ -65,6 +66,10 @@ export default function Home() {
       });
     }
 
+    if (filters.eras.length > 0) {
+      result = result.filter((lens) => filters.eras.includes(lens.era));
+    }
+
     if (filters.search) {
       const search = filters.search.toLowerCase();
       result = result.filter(
@@ -75,8 +80,26 @@ export default function Home() {
       );
     }
 
+    // 排序
+    if (sortBy !== 'none') {
+      result.sort((a, b) => {
+        switch (sortBy) {
+          case 'price-asc':
+            return a.priceUsedMin - b.priceUsedMin;
+          case 'price-desc':
+            return b.priceUsedMin - a.priceUsedMin;
+          case 'year-asc':
+            return a.year - b.year;
+          case 'year-desc':
+            return b.year - a.year;
+          default:
+            return 0;
+        }
+      });
+    }
+
     return result;
-  }, [lenses, filters, tab, favorites]);
+  }, [lenses, filters, sortBy, tab, favorites]);
 
   const isFavoritesTab = tab === 'favorites';
 
