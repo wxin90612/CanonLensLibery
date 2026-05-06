@@ -84,6 +84,11 @@ export default function LensDetail({ lens }: LensDetailProps) {
               <h1 className="text-2xl lg:text-3xl font-bold text-white mb-2">
                 {lens.model}
               </h1>
+              {lens.modelCode && (
+                <p className="text-lg text-cyan-400 font-mono mb-1">
+                  {lens.modelCode}
+                </p>
+              )}
               {lens.nickname && (
                 <p className="text-lg text-zinc-400">"{lens.nickname}"</p>
               )}

@@ -40,7 +40,8 @@
       "光圈叶片": "8片(圆形)",
       "放大倍率": "0.2倍",
       "防抖": "3档"
-    }
+    },
+    "modelCode": "EF70-200/2.8L IS"
   },
   {
     "id": "canon-ef-70-200-28l-is-ii",
@@ -82,7 +83,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.27倍",
       "防抖": "4档"
-    }
+    },
+    "modelCode": "EF70-200/2.8L IS II"
   },
   {
     "id": "canon-ef-24-70-28l-usm",
@@ -124,7 +126,8 @@
       "镜片组": "13片10组",
       "光圈叶片": "8片(圆形)",
       "放大倍率": "0.29倍"
-    }
+    },
+    "modelCode": "EF24-70/2.8L"
   },
   {
     "id": "canon-ef-16-35-28l-usm",
@@ -165,7 +168,8 @@
       "镜片组": "10片8组",
       "光圈叶片": "8片(圆形)",
       "放大倍率": "0.2倍"
-    }
+    },
+    "modelCode": "EF16-35/2.8L"
   },
   {
     "id": "canon-ef-16-35-28l-ii",
@@ -205,7 +209,8 @@
       "镜片组": "12片10组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.25倍"
-    }
+    },
+    "modelCode": "EF16-35/2.8L II"
   },
   {
     "id": "canon-ef-100-400-is-usm",
@@ -248,7 +253,8 @@
       "光圈叶片": "8片(圆形)",
       "放大倍率": "0.2倍",
       "防抖": "3档"
-    }
+    },
+    "modelCode": "EF100-400/4.5-5.6L IS"
   },
   {
     "id": "canon-ef-50-18-stm",
@@ -289,7 +295,8 @@
       "镜片组": "6片5组",
       "光圈叶片": "7片(圆形)",
       "放大倍率": "0.21倍"
-    }
+    },
+    "modelCode": "EF50/1.8 STM"
   },
   {
     "id": "canon-ef-40-28-stm",
@@ -329,7 +336,8 @@
       "镜片组": "7片6组",
       "光圈叶片": "7片(圆形)",
       "放大倍率": "0.27倍"
-    }
+    },
+    "modelCode": "EF40/2.8 STM"
   },
   {
     "id": "canon-ef-s-18-55-is-stm",
@@ -371,7 +379,8 @@
       "光圈叶片": "6片",
       "放大倍率": "0.34倍",
       "防抖": "3档"
-    }
+    },
+    "modelCode": "EF-S18-55/3.5-5.6 IS STM"
   },
   {
     "id": "canon-ef-s-17-55-28-is",
@@ -413,7 +422,8 @@
       "光圈叶片": "7片(圆形)",
       "放大倍率": "0.32倍",
       "防抖": "2.5档"
-    }
+    },
+    "modelCode": "EF-S17-55/2.8 IS"
   },
   {
     "id": "sigma-18-35-18-art",
@@ -455,7 +465,8 @@
       "镜片组": "17片12组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.2倍"
-    }
+    },
+    "modelCode": "18-35/1.8 DC HSM Art"
   },
   {
     "id": "sigma-50-14-ex",
@@ -496,7 +507,8 @@
       "镜片组": "8片6组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.15倍"
-    }
+    },
+    "modelCode": "50/1.4 EX DG HSM"
   },
   {
     "id": "sigma-24-70-28-ex",
@@ -537,7 +549,8 @@
       "镜片组": "13片10组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.28倍"
-    }
+    },
+    "modelCode": "24-70/2.8 EX DG HSM"
   },
   {
     "id": "tamron-28-75-28-xr",
@@ -578,7 +591,8 @@
       "镜片组": "13片10组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.25倍"
-    }
+    },
+    "modelCode": "SP 28-75/2.8 XR Di (A09)"
   },
   {
     "id": "tamron-70-200-28-di",
@@ -619,7 +633,8 @@
       "镜片组": "18片13组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.25倍"
-    }
+    },
+    "modelCode": "SP 70-200/2.8 Di (A001)"
   },
   {
     "id": "tamron-90-28-macro",
@@ -659,7 +674,8 @@
       "镜片组": "11片8组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "1倍"
-    }
+    },
+    "modelCode": "SP 90/2.8 Di Macro (G005)"
   },
   {
     "id": "canon-rf-24-105-4l-is",
@@ -700,7 +716,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.3倍",
       "防抖": "5档"
-    }
+    },
+    "modelCode": "RF24-105/4L IS"
   },
   {
     "id": "canon-rf-35-18-macro",
@@ -741,7 +758,8 @@
       "光圈叶片": "7片(圆形)",
       "放大倍率": "0.5倍",
       "防抖": "5档"
-    }
+    },
+    "modelCode": "RF35/1.8 Macro"
   },
   {
     "id": "canon-rf-85-2-macro",
@@ -782,7 +800,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.5倍",
       "防抖": "5档"
-    }
+    },
+    "modelCode": "RF85/2 Macro"
   },
   {
     "id": "canon-rf-100-400-56-8-is",
@@ -823,7 +842,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.4倍",
       "防抖": "5档"
-    }
+    },
+    "modelCode": "RF100-400/5.6-8 IS"
   },
   {
     "id": "canon-rf-70-200-4l-is",
@@ -864,7 +884,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.31倍",
       "防抖": "5档"
-    }
+    },
+    "modelCode": "RF70-200/4L IS"
   },
   {
     "id": "sigma-85-14-dg-dn",
@@ -904,7 +925,8 @@
       "镜片组": "11片8组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.12倍"
-    }
+    },
+    "modelCode": "85/1.4 DG DN Art"
   },
   {
     "id": "tamron-70-180-28-di",
@@ -944,7 +966,8 @@
       "镜片组": "15片12组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.25倍"
-    }
+    },
+    "modelCode": "70-180/2.8 Di III VXD (A056)"
   },
   {
     "id": "tamron-50-400-45-63-di",
@@ -985,7 +1008,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.32倍",
       "防抖": "5档"
-    }
+    },
+    "modelCode": "50-400/4.5-6.3 Di III VXD (A067)"
   },
   {
     "id": "canon-ef-70-200-28l-is-iii",
@@ -1028,7 +1052,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.27倍",
       "防抖": "3.5档"
-    }
+    },
+    "modelCode": "EF70-200/2.8L IS III"
   },
   {
     "id": "canon-ef-70-200-4l-is-ii",
@@ -1069,7 +1094,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.28倍",
       "防抖": "3.5档"
-    }
+    },
+    "modelCode": "EF70-200/4L IS II"
   },
   {
     "id": "canon-ef-24-70-28l-ii",
@@ -1113,7 +1139,8 @@
       "镜片组": "18片13组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.29倍"
-    }
+    },
+    "modelCode": "EF24-70/2.8L II"
   },
   {
     "id": "canon-ef-100-28l-is-macro",
@@ -1153,7 +1180,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "1倍",
       "防抖": "4档"
-    }
+    },
+    "modelCode": "EF100/2.8L IS Macro"
   },
   {
     "id": "canon-ef-28-135-35-56-is",
@@ -1194,7 +1222,8 @@
       "光圈叶片": "6片",
       "放大倍率": "0.2倍",
       "防抖": "2档"
-    }
+    },
+    "modelCode": "EF28-135/3.5-5.6 IS"
   },
   {
     "id": "canon-ef-75-300-45-56-iii",
@@ -1235,7 +1264,8 @@
       "镜片组": "10片8组",
       "光圈叶片": "6片",
       "放大倍率": "0.15倍"
-    }
+    },
+    "modelCode": "EF75-300/4-5.6 III"
   },
   {
     "id": "canon-ef-75-300-45-56-is-usm",
@@ -1275,7 +1305,8 @@
       "光圈叶片": "6片",
       "放大倍率": "0.15倍",
       "防抖": "2档"
-    }
+    },
+    "modelCode": "EF75-300/4-5.6 IS"
   },
   {
     "id": "sigma-70-200-28-ex",
@@ -1317,7 +1348,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.25倍",
       "防抖": "4档"
-    }
+    },
+    "modelCode": "70-200/2.8 EX DG OS HSM"
   },
   {
     "id": "sigma-50-150-28-ex",
@@ -1357,7 +1389,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.2倍",
       "防抖": "4档"
-    }
+    },
+    "modelCode": "50-150/2.8 EX DC OS HSM"
   },
   {
     "id": "sigma-24-60-28-ex",
@@ -1397,7 +1430,8 @@
       "镜片组": "12片9组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.28倍"
-    }
+    },
+    "modelCode": "24-60/2.8 EX DG"
   },
   {
     "id": "sigma-105-14-ex",
@@ -1437,7 +1471,8 @@
       "镜片组": "15片11组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.13倍"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "sigma-16-14-dc",
@@ -1477,7 +1512,8 @@
       "镜片组": "16片13组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.2倍"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "sigma-30-14-dc",
@@ -1517,7 +1553,8 @@
       "镜片组": "9片7组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.2倍"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "sigma-56-14-dc",
@@ -1557,7 +1594,8 @@
       "镜片组": "11片8组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.14倍"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "tamron-18-270-35-63-di",
@@ -1598,7 +1636,8 @@
       "光圈叶片": "7片(圆形)",
       "放大倍率": "0.38倍",
       "防抖": "3档"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "tamron-24-70-28-di-vc",
@@ -1638,7 +1677,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.27倍",
       "防抖": "4档"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "tamron-150-600-56-63-di",
@@ -1680,7 +1720,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.2倍",
       "防抖": "4.5档"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "tamron-70-300-45-63-di",
@@ -1719,7 +1760,8 @@
       "镜片组": "14片10组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.25倍"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "tamron-85-18-di",
@@ -1759,7 +1801,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.12倍",
       "防抖": "3档"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "canon-rf-50-18-stm",
@@ -1799,7 +1842,8 @@
       "镜片组": "7片5组",
       "光圈叶片": "7片(圆形)",
       "放大倍率": "0.2倍"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "canon-rf-16-28-28-is",
@@ -1839,7 +1883,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.24倍",
       "防抖": "5档"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "canon-rf-200-800-63-9-is",
@@ -1880,7 +1925,8 @@
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.23倍",
       "防抖": "5档"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "sigma-20-40-28-dg-dn",
@@ -1919,7 +1965,8 @@
       "镜片组": "14片11组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.38倍"
-    }
+    },
+    "modelCode": ""
   },
   {
     "id": "tamron-20-40-28-di",
@@ -1958,6 +2005,478 @@
       "镜片组": "14片11组",
       "光圈叶片": "9片(圆形)",
       "放大倍率": "0.39倍"
+    },
+    "modelCode": ""
+  },
+  {
+    "id": "tamron-18-200-35-63-di-ii",
+    "brand": "Tamron",
+    "mount": "EF",
+    "model": "Tamron 18-200mm f/3.5-6.3 Di II VC",
+    "modelCode": "18-200/3.5-6.3 Di II VC (B018)",
+    "nickname": "天涯镜B018",
+    "year": 2011,
+    "type": "zoom",
+    "focalLength": "18-200mm",
+    "aperture": "f/3.5-6.3",
+    "isStabilized": true,
+    "weight": 400,
+    "minFocusDistance": "0.45m",
+    "filterSize": "62mm",
+    "priceNew": 3499,
+    "priceUsedMin": 800,
+    "priceUsedMax": 1500,
+    "retentionRate": 42,
+    "ownershipCount": "high",
+    "pros": [
+      "一镜走天下",
+      "轻便",
+      "带防抖",
+      "性价比高"
+    ],
+    "cons": [
+      "光圈小",
+      "长焦端画质一般"
+    ],
+    "commonIssues": [
+      "镜筒进灰",
+      "对焦马达异响"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tamron+18-200mm+f3.5-6.3+Di+II+VC+lens+superzoom+B018&image_size=square",
+    "purchaseAdvice": "入门一镜走天下首选",
+    "specs": {
+      "镜片组": "14片11组",
+      "光圈叶片": "7片(圆形)",
+      "放大倍率": "0.42倍",
+      "防抖": "4档"
+    }
+  },
+  {
+    "id": "tamron-17-50-28-xr",
+    "brand": "Tamron",
+    "mount": "EF",
+    "model": "Tamron SP 17-50mm f/2.8 XR Di II VC",
+    "modelCode": "SP 17-50/2.8 XR Di II VC (B005)",
+    "nickname": "APS-C标变",
+    "year": 2009,
+    "type": "zoom",
+    "focalLength": "17-50mm",
+    "aperture": "f/2.8",
+    "isStabilized": true,
+    "weight": 570,
+    "minFocusDistance": "0.29m",
+    "filterSize": "72mm",
+    "priceNew": 4999,
+    "priceUsedMin": 1200,
+    "priceUsedMax": 2200,
+    "retentionRate": 48,
+    "ownershipCount": "high",
+    "pros": [
+      "APS-C专用",
+      "恒定f/2.8",
+      "带防抖",
+      "性价比高"
+    ],
+    "cons": [
+      "APS-C专用",
+      "边缘画质一般"
+    ],
+    "commonIssues": [
+      "对焦马达异响",
+      "镜筒进灰"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tamron+17-50mm+f2.8+XR+Di+II+VC+lens+APS-C+zoom+B005&image_size=square",
+    "purchaseAdvice": "APS-C用户性价比之选",
+    "specs": {
+      "镜片组": "19片14组",
+      "光圈叶片": "7片(圆形)",
+      "放大倍率": "0.25倍",
+      "防抖": "4档"
+    }
+  },
+  {
+    "id": "tamron-24-70-28-g2",
+    "brand": "Tamron",
+    "mount": "EF",
+    "model": "Tamron SP 24-70mm f/2.8 Di VC USD G2",
+    "modelCode": "SP 24-70/2.8 Di VC USD G2 (A032)",
+    "nickname": "G2标变",
+    "year": 2017,
+    "type": "zoom",
+    "focalLength": "24-70mm",
+    "aperture": "f/2.8",
+    "isStabilized": true,
+    "weight": 825,
+    "minFocusDistance": "0.38m",
+    "filterSize": "82mm",
+    "priceNew": 7999,
+    "priceUsedMin": 3500,
+    "priceUsedMax": 5500,
+    "retentionRate": 58,
+    "ownershipCount": "high",
+    "pros": [
+      "恒定f/2.8",
+      "带防抖",
+      "对焦快速",
+      "成像优秀"
+    ],
+    "cons": [
+      "重量较大",
+      "价格较高"
+    ],
+    "commonIssues": [
+      "对焦马达偶发异响"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tamron+SP+24-70mm+f2.8+Di+VC+USD+G2+lens+professional+zoom+A032&image_size=square",
+    "purchaseAdvice": "性价比标变之选",
+    "specs": {
+      "镜片组": "17片12组",
+      "光圈叶片": "9片(圆形)",
+      "放大倍率": "0.2倍",
+      "防抖": "5档"
+    }
+  },
+  {
+    "id": "sigma-18-200-35-63-dc",
+    "brand": "Sigma",
+    "mount": "EF",
+    "model": "Sigma 18-200mm f/3.5-6.3 DC OS HSM",
+    "modelCode": "18-200/3.5-6.3 DC OS HSM (C014)",
+    "nickname": "适马天涯镜",
+    "year": 2013,
+    "type": "zoom",
+    "focalLength": "18-200mm",
+    "aperture": "f/3.5-6.3",
+    "isStabilized": true,
+    "weight": 430,
+    "minFocusDistance": "0.45m",
+    "filterSize": "62mm",
+    "priceNew": 3299,
+    "priceUsedMin": 700,
+    "priceUsedMax": 1300,
+    "retentionRate": 40,
+    "ownershipCount": "medium",
+    "pros": [
+      "一镜走天下",
+      "轻便",
+      "带防抖"
+    ],
+    "cons": [
+      "光圈小",
+      "长焦端画质一般"
+    ],
+    "commonIssues": [
+      "镜筒进灰",
+      "对焦马达异响"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Sigma+18-200mm+f3.5-6.3+DC+OS+HSM+lens+superzoom+C014&image_size=square",
+    "purchaseAdvice": "入门一镜走天下选择",
+    "specs": {
+      "镜片组": "16片13组",
+      "光圈叶片": "7片(圆形)",
+      "放大倍率": "0.39倍",
+      "防抖": "4档"
+    }
+  },
+  {
+    "id": "sigma-24-70-28-art",
+    "brand": "Sigma",
+    "mount": "EF",
+    "model": "Sigma 24-70mm f/2.8 DG OS HSM Art",
+    "modelCode": "24-70/2.8 DG OS HSM Art (A017)",
+    "nickname": "适马标变Art",
+    "year": 2017,
+    "type": "zoom",
+    "focalLength": "24-70mm",
+    "aperture": "f/2.8",
+    "isStabilized": true,
+    "weight": 1020,
+    "minFocusDistance": "0.38m",
+    "filterSize": "82mm",
+    "priceNew": 8999,
+    "priceUsedMin": 4500,
+    "priceUsedMax": 7000,
+    "retentionRate": 65,
+    "ownershipCount": "high",
+    "pros": [
+      "恒定f/2.8",
+      "带防抖",
+      "锐度极高",
+      "做工优秀"
+    ],
+    "cons": [
+      "重量大",
+      "价格较高"
+    ],
+    "commonIssues": [
+      "对焦马达偶发异响",
+      "镜筒进灰"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Sigma+24-70mm+f2.8+DG+OS+HSM+Art+lens+professional+zoom+A017&image_size=square",
+    "purchaseAdvice": "Art系列性价比之选",
+    "specs": {
+      "镜片组": "19片15组",
+      "光圈叶片": "9片(圆形)",
+      "放大倍率": "0.2倍",
+      "防抖": "4档"
+    }
+  },
+  {
+    "id": "canon-ef-50-14-usm",
+    "brand": "Canon",
+    "mount": "EF",
+    "model": "EF 50mm f/1.4 USM",
+    "modelCode": "EF50/1.4 USM",
+    "nickname": "小痰盂升级款",
+    "year": 2000,
+    "type": "prime",
+    "focalLength": "50mm",
+    "aperture": "f/1.4",
+    "isStabilized": false,
+    "weight": 290,
+    "minFocusDistance": "0.45m",
+    "filterSize": "58mm",
+    "priceNew": 2899,
+    "priceUsedMin": 600,
+    "priceUsedMax": 1200,
+    "retentionRate": 42,
+    "ownershipCount": "high",
+    "pros": [
+      "轻便小巧",
+      "价格实惠",
+      "焦外柔美",
+      "经典标头"
+    ],
+    "cons": [
+      "无防抖",
+      "对焦速度一般",
+      "塑料卡口"
+    ],
+    "commonIssues": [
+      "对焦环松动",
+      "光圈叶片油润"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Canon+50mm+f1.4+USM+lens+classic+prime&image_size=square",
+    "purchaseAdvice": "入门首选，性价比极高",
+    "specs": {
+      "镜片组": "7片6组",
+      "光圈叶片": "8片(圆形)",
+      "放大倍率": "0.15倍"
+    }
+  },
+  {
+    "id": "canon-ef-85-18-usm",
+    "brand": "Canon",
+    "mount": "EF",
+    "model": "EF 85mm f/1.8 USM",
+    "modelCode": "EF85/1.8 USM",
+    "nickname": "人像入门镜",
+    "year": 2000,
+    "type": "prime",
+    "focalLength": "85mm",
+    "aperture": "f/1.8",
+    "isStabilized": false,
+    "weight": 425,
+    "minFocusDistance": "0.85m",
+    "filterSize": "58mm",
+    "priceNew": 3999,
+    "priceUsedMin": 1000,
+    "priceUsedMax": 2000,
+    "retentionRate": 50,
+    "ownershipCount": "high",
+    "pros": [
+      "轻便",
+      "价格适中",
+      "人像焦外好",
+      "对焦快速"
+    ],
+    "cons": [
+      "无防抖",
+      "边缘画质一般",
+      "塑料感"
+    ],
+    "commonIssues": [
+      "对焦环阻尼变涩",
+      "镀膜老化"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Canon+85mm+f1.8+USM+lens+portrait+affordable&image_size=square",
+    "purchaseAdvice": "人像入门首选，二手超值",
+    "specs": {
+      "镜片组": "8片6组",
+      "光圈叶片": "8片(圆形)",
+      "放大倍率": "0.11倍"
+    }
+  },
+  {
+    "id": "canon-ef-s-55-250-4-56-is",
+    "brand": "Canon",
+    "mount": "EF",
+    "model": "EF-S 55-250mm f/4-5.6 IS",
+    "modelCode": "EF-S55-250/4-5.6 IS",
+    "nickname": "小钢炮",
+    "year": 2007,
+    "type": "zoom",
+    "focalLength": "55-250mm",
+    "aperture": "f/4-5.6",
+    "isStabilized": true,
+    "weight": 390,
+    "minFocusDistance": "1.1m",
+    "filterSize": "58mm",
+    "priceNew": 2499,
+    "priceUsedMin": 400,
+    "priceUsedMax": 800,
+    "retentionRate": 32,
+    "ownershipCount": "high",
+    "pros": [
+      "轻便",
+      "带防抖",
+      "APS-C专用",
+      "便宜"
+    ],
+    "cons": [
+      "APS-C专用",
+      "光圈小",
+      "画质一般"
+    ],
+    "commonIssues": [
+      "镜筒松动",
+      "对焦不准"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Canon+EF-S+55-250mm+f4-5.6+IS+lens+APS-C+telephoto&image_size=square",
+    "purchaseAdvice": "APS-C入门长焦首选",
+    "specs": {
+      "镜片组": "12片10组",
+      "光圈叶片": "7片(圆形)",
+      "放大倍率": "0.29倍",
+      "防抖": "4档"
+    }
+  },
+  {
+    "id": "tamron-16-300-35-63-di-ii",
+    "brand": "Tamron",
+    "mount": "EF",
+    "model": "Tamron 16-300mm f/3.5-6.3 Di II VC PZD",
+    "modelCode": "16-300/3.5-6.3 Di II VC PZD (B016)",
+    "nickname": "超级天涯镜",
+    "year": 2014,
+    "type": "zoom",
+    "focalLength": "16-300mm",
+    "aperture": "f/3.5-6.3",
+    "isStabilized": true,
+    "weight": 615,
+    "minFocusDistance": "0.39m",
+    "filterSize": "67mm",
+    "priceNew": 4999,
+    "priceUsedMin": 1200,
+    "priceUsedMax": 2200,
+    "retentionRate": 45,
+    "ownershipCount": "medium",
+    "pros": [
+      "超大变焦比",
+      "一镜走天下",
+      "带防抖"
+    ],
+    "cons": [
+      "光圈小",
+      "长焦端画质一般",
+      "重量较大"
+    ],
+    "commonIssues": [
+      "镜筒进灰",
+      "对焦马达异响"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tamron+16-300mm+f3.5-6.3+Di+II+VC+PZD+lens+superzoom+B016&image_size=square",
+    "purchaseAdvice": "旅游一镜走天下首选",
+    "specs": {
+      "镜片组": "16片12组",
+      "光圈叶片": "7片(圆形)",
+      "放大倍率": "0.3倍",
+      "防抖": "4档"
+    }
+  },
+  {
+    "id": "sigma-150-600-5-63-contemporary",
+    "brand": "Sigma",
+    "mount": "EF",
+    "model": "Sigma 150-600mm f/5-6.3 DG OS HSM Contemporary",
+    "modelCode": "150-600/5-6.3 DG OS HSM Contemporary (C015)",
+    "nickname": "适马大炮C版",
+    "year": 2014,
+    "type": "zoom",
+    "focalLength": "150-600mm",
+    "aperture": "f/5-6.3",
+    "isStabilized": true,
+    "weight": 1930,
+    "minFocusDistance": "2.6m",
+    "filterSize": "95mm",
+    "priceNew": 9999,
+    "priceUsedMin": 4500,
+    "priceUsedMax": 7000,
+    "retentionRate": 60,
+    "ownershipCount": "medium",
+    "pros": [
+      "超长焦",
+      "带防抖",
+      "成像优秀",
+      "性价比高"
+    ],
+    "cons": [
+      "重量大",
+      "光圈小",
+      "价格较高"
+    ],
+    "commonIssues": [
+      "镜筒伸缩卡顿",
+      "脚架环松动"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Sigma+150-600mm+f5-6.3+Contemporary+lens+super+telephoto+C015&image_size=square",
+    "purchaseAdvice": "打鸟入门首选",
+    "specs": {
+      "镜片组": "20片14组",
+      "光圈叶片": "9片(圆形)",
+      "放大倍率": "0.2倍",
+      "防抖": "4档"
+    }
+  },
+  {
+    "id": "canon-rf-50-18-stm",
+    "brand": "Canon",
+    "mount": "RF",
+    "model": "RF 50mm f/1.8 STM",
+    "modelCode": "RF50/1.8 STM",
+    "nickname": "RF小痰盂",
+    "year": 2020,
+    "type": "prime",
+    "focalLength": "50mm",
+    "aperture": "f/1.8",
+    "isStabilized": false,
+    "weight": 160,
+    "minFocusDistance": "0.3m",
+    "filterSize": "43mm",
+    "priceNew": 1299,
+    "priceUsedMin": 700,
+    "priceUsedMax": 1000,
+    "retentionRate": 75,
+    "ownershipCount": "high",
+    "pros": [
+      "极便宜",
+      "轻便",
+      "STM安静",
+      "对焦快速"
+    ],
+    "cons": [
+      "无防抖",
+      "塑料感"
+    ],
+    "commonIssues": [
+      "卡口脆弱"
+    ],
+    "imageUrl": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Canon+RF+50mm+f1.8+STM+lens+compact+prime&image_size=square",
+    "purchaseAdvice": "RF入门必买",
+    "specs": {
+      "镜片组": "7片6组",
+      "光圈叶片": "7片(圆形)",
+      "放大倍率": "0.25倍"
     }
   }
 ]

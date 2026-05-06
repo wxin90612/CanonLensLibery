@@ -70,6 +70,11 @@ export default function LensCard({ lens }: LensCardProps) {
             <h3 className="text-sm font-bold text-white truncate group-hover:text-amber-400 transition-colors">
               {lens.model}
             </h3>
+            {lens.modelCode && (
+              <p className="text-xs text-cyan-400 mt-0.5 font-mono">
+                {lens.modelCode}
+              </p>
+            )}
             {lens.nickname && (
               <p className="text-xs text-zinc-500 mt-0.5">"{lens.nickname}"</p>
             )}

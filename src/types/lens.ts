@@ -3,6 +3,7 @@ export interface Lens {
   brand: 'Canon' | 'Tamron' | 'Sigma';
   mount: 'EF' | 'RF';
   model: string;
+  modelCode: string;
   nickname: string;
   year: number;
   type: 'zoom' | 'prime';
