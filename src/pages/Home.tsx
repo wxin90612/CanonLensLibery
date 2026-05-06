@@ -18,12 +18,13 @@ const FOCAL_RANGE_MAP: Record<string, [number, number]> = {
   'super-tele': [200, 999],
 };
 
-function parseFocalLength(focal: string): number {
+function parseFocalLength(focal: string): [number, number] {
   if (focal.includes('-')) {
     const parts = focal.replace(/[^0-9-]/g, '').split('-');
-    return parseInt(parts[0]) || 0;
+    return [parseInt(parts[0]) || 0, parseInt(parts[1]) || 0];
   }
-  return parseInt(focal.replace(/[^0-9]/g, '')) || 0;
+  const num = parseInt(focal.replace(/[^0-9]/g, '')) || 0;
+  return [num, num];
 }
 
 export default function Home() {
@@ -56,10 +57,10 @@ export default function Home() {
 
     if (filters.focalRanges.length > 0) {
       result = result.filter((lens) => {
-        const focal = parseFocalLength(lens.focalLength);
+        const [focalMin, focalMax] = parseFocalLength(lens.focalLength);
         return filters.focalRanges.some((range) => {
-          const [min, max] = FOCAL_RANGE_MAP[range];
-          return focal >= min && focal < max;
+          const [rangeMin, rangeMax] = FOCAL_RANGE_MAP[range];
+          return focalMin < rangeMax && focalMax > rangeMin;
         });
       });
     }
